@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Garamond, sans-serif;
+}
+
+body {
+    background-color: rgba(37, 178, 129, 0.194);
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-size: .9em;
+}
